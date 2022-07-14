@@ -1,10 +1,5 @@
 # Portfolio
 
-Portfolio open
-Kopieer: 
-https://github.com/MHeegstra/Portfolio/blob/master/index.html
+Om het portfolio te open, plak onderstaande url in de balk
 
-Ga naar:
-https://htmlpreview.github.io/
-
-Plak url in tool
+https://htmlpreview.github.io/?https://github.com/MHeegstra/Portfolio/blob/master/index.html
